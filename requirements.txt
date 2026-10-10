@@ -1,7 +1,7 @@
 # List of dependencies
-setuptools==75.6.0
+setuptools==83.0.0
 typer==0.15.1
-requests==2.32.3
+requests==2.33.0
 rich==13.9.4
 yaspin==3.1.0
 pytubefix==8.8.1
